@@ -25,7 +25,7 @@ SECRET_KEY = 'phb_p&r^o7$pns_f8r)*h8at_t#k60&q5j-edtf**lex14nuh_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bibosso.pythonanywhere.com']
 
 
 # Application definition
